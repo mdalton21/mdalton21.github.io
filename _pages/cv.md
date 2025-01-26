@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find a copy of my [CV](/files/Dalton_CV.pdf) here.
 

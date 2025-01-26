@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/Dalton_CV.pdf
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
