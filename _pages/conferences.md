@@ -14,5 +14,6 @@ redirect_from:
     - Presentation at the Midwest Workshop in Empirical Political Science (MWEPS XI) in State College, PA, March 2024.
     - Presentation at the Annual Meeting of the American Political Science Association (APSA) in Los Angeles, CA, September 2023.
 4. *Measuring Changes in Corruption Over Time*, with Justin Esarey
-    - Invitation to present at the 4th Annual UNDOC Anti-Corruption Academic Symposium in Atlanta, GA, December 2023.
+    - Invited panelist at the 4th Annual UNDOC Anti-Corruption Academic Symposium in Atlanta, GA, December 2023.
+    - Invited for Blalock Lecture Series at the 2023 ICPSR Summer Program. 
     - Presentation at the Annual Meeting of the Midwest Political Science Association (MPSA) in Chicago, IL, April 2022.
