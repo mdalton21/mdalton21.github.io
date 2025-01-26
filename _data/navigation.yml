@@ -17,8 +17,8 @@ main:
   - title: "Tutorials"
     url: /tutorials/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Health of the Humanities in Appalachia"
+    url: /NEH/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
