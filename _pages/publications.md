@@ -18,7 +18,7 @@ Working Papers
 --------
 1. **Dalton, Maya** and Giancarlo Visconti. "Representation Behind Closed Doors: The Effect of Electing Women Mayors
 on Domestic Violence". (Revise and Resubmit at *Journal of Politics*) 
-[PDF](https://95385d55-1984-456d-b337-54b7c3702661.filesusr.com/ugd/86a055_7da274a7ea7145b5af7c26d6c2a436de.pdf)
+[PDF](https://www.giancarlovisconti.com/pdfs/Dalton%20and%20Visconti.2025.Domestic_violence.pdf)
 2. **Dalton, Maya** and Cecilia Cavero Sanchez. "Thinking About Conflict in Time Series".
 3. **Dalton, Maya**. "A Network Analysis of Perpetrators, Targets, and Clusters of Electoral Violence".
 4. **Dalton, Maya**. "For Better or For Worse? Gender Quotas and Electoral Violence".
