@@ -19,5 +19,5 @@ Working Papers
 --------
 1. "Memory Matters: Rethinking Structural Breaks in Conflict Time Series", (with Cecilia Cavero)
 2. "Predicting Civilian Electoral Contention". 
-3. "A Network Analysis of Perpetrators, Targets, and Clusters of Electoral Violence".
+3. "Mapping the Hidden Structure of Electoral Violence".
 4. "For Better or For Worse? Gender Quotas and Electoral Violence".
